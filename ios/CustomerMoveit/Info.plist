@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleURL</key>
+    <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>com.techmoveit.app</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>techmoveit</string>
+                <string>fb802091434075398</string>
+            </array>
+        </dict>
+    </array>
+
+    <key>FacebookAppID</key>
+    <key>FacebookClientToken</key>
+    <string>e969915dd1d2fd9bc3ea9791849509bd</string>
+    
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>fbapi</string>
+        <string>fb-messenger-api</string>
+        <string>fbauth2</string>
+        <string>fbshareextension</string>
+        <string>itms-apps</string>
+    </array>
+
+    <key>com.apple.developer.associated-domains</key>
+    <array>
+        <string>applinks:techmoveit.com</string>
+    </array>
+
+    <key>BGTaskSchedulerPermittedIdentifiers</key>
+    <array>
+        <string>com.moveit.CustomerMoveIt</string>
+    </array>
+
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <string>false</string>
+
+    <key>CFBundleDisplayName</key>
+    <string>Moveit</string>
+
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+
+    <key>CFBundleIconName</key>
+    <string>AppIcon</string>
+
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+            <dict>
+                <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                <true/>
+            <dict>
+                <key>NSIncludesSubdomains</key>
+                <true/>
+                <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                <true/>
+            </dict>
+        </dict>
+    </dict>
+    <key>UIAppFonts</key>
+    <array>
+        <string>AntDesign.ttf</string>
+        <string>Entypo.ttf</string>
+        <string>EvilIcons.ttf</string>
+        <string>Feather.ttf</string>
+        <string>FontAwesome.ttf</string>
+        <string>FontAwesome5_Brands.ttf</string>
+        <string>FontAwesome5_Regular.ttf</string>
+        <string>FontAwesome5_Solid.ttf</string>
+        <string>Fontisto.ttf</string>
+        <string>Foundation.ttf</string>
+        <string>Ionicons.ttf</string>
+        <string>MaterialIcons.ttf</string>
+        <string>Lato-Italic.ttf</string>
+        <string>Lato-Light.ttf</string>
+        <string>Lato-LightItalic.ttf</string>
+        <string>Lato-Medium.ttf</string>
+        <string>Lato-MediumItalic.ttf</string>
+        <string>Lato-Regular.ttf</string>
+        <string>Lato-Semibold.ttf</string>
+        <string>Lato-SemiboldItalic.ttf</string>
+        <string>Lato-Thin.ttf</string>
+        <string>Lato-ThinItalic.ttf</string>
+        <string>PottaOne-Regular.ttf</string>
+        <string>Jameel-Noori-Nastaleeq-Kasheeda.ttf</string>
+        <string>Jameel-Noori-Nastaleeq.ttf</string>
+        <string>Gilroy-Regular.ttf</string>
+    </array>
+
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>processing</string>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+</dict>
+</plist>

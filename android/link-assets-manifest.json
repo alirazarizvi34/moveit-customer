@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Gilroy-Regular.ttf",
+      "sha1": "a737c19356e50cb9a50eb64ca7446c80dd3aa3e3"
+    },
+    {
+      "path": "assets/fonts/Lato-BlackItalic.ttf",
+      "sha1": "4bde1231ff7afccfdf4f77f086c0e9a93a4f3e46"
+    },
+    {
+      "path": "assets/fonts/Lato-Heavy.ttf",
+      "sha1": "068af974d1346b61d9ee1e097374f2f3cac6c442"
+    },
+    {
+      "path": "assets/fonts/Lato-HeavyItalic.ttf",
+      "sha1": "f2d4047e1f5efd405b850abe23ccfdc2ceb1b3f8"
+    },
+    {
+      "path": "assets/fonts/Lato-LightItalic.ttf",
+      "sha1": "f05f3b58c5abd991036a1b43bd601556244ffe9e"
+    },
+    {
+      "path": "assets/fonts/Lato-Medium.ttf",
+      "sha1": "c78e94b7cc0b782eef4f9f2be371c3cf9c3f6eaf"
+    },
+    {
+      "path": "assets/fonts/Lato-Semibold.ttf",
+      "sha1": "96569e2cfcc3a298bb1aea21103d0d1e3c7e2ed4"
+    },
+    {
+      "path": "assets/fonts/Lato-SemiboldItalic.ttf",
+      "sha1": "8a34fbb379a096d4c5914a962a6f71e1721b40a7"
+    }
+  ]
+}
